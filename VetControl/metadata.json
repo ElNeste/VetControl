@@ -1,0 +1,6 @@
+{
+  "name": "VetControl",
+  "description": "Sistema integral de gestión clínica veterinaria y planificación del desarrollo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
